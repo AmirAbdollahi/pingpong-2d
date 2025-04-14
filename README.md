@@ -9,6 +9,15 @@ A simple 2D Ping Pong game developed in C#.
 - Score tracking
 - Keyboard controls for both players
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/30fa3b10-d085-4983-bacf-63acda991d1f)
+
+![image](https://github.com/user-attachments/assets/d3062a0b-6996-4fe7-8d80-f67f34caf520)
+
+![image](https://github.com/user-attachments/assets/a8a23aa3-a50e-41b6-8c8d-a87ec3ad6cfe)
+
+
 ## Getting Started
 
 ### Prerequisites

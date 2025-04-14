@@ -43,6 +43,36 @@ A simple 2D Ping Pong game developed in C#.
 - Player 1: `W` (up), `S` (down)
 - Player 2: `↑` (up), `↓` (down)
 
+Great idea! Adding a **"Future Features"** section gives contributors a clear roadmap of what they can work on. Here's how you can write it:
+
+---
+
+### Future Features
+
+The following features are planned for future development. Contributions are welcome!
+
+- **Improved AI**  
+  Make the AI smarter and more adaptive based on the player's performance.
+
+- **Sound Effects and Music**  
+  Add paddle hit sounds, background music, and scoring sound effects.
+
+- **Power-Ups**  
+  Introduce random power-ups like speed boost, paddle shrink/grow, or double score.
+
+- **Scoreboard UI Improvements**  
+  Enhance the visual appearance of the score display.
+
+- **High Score Tracking**  
+  Store and display the highest scores achieved across sessions.
+
+- **Multiplayer Over LAN/Internet**  
+  Allow remote two-player mode over a network.
+
+---
+
+Would you like me to append this to your full README as a final version?
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
